@@ -33,7 +33,6 @@ A simple web interface built using HTML, CSS, and JavaScript allows users to:
 1. Clone this repository:
     ```bash
     git clone https://github.com/Mann3004/Banglore-Home-Price-Prediction
-    cd Banglore-Home-Price-Prediction
     ```
 
 2. Install required Python libraries:
